@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rayhananlovan/Kalkulatorbmi/static/css/main.c12da547.css",
-    "main.js": "/rayhananlovan/Kalkulatorbmi/static/js/main.db8d8b59.js",
-    "static/js/453.f42ee627.chunk.js": "/rayhananlovan/Kalkulatorbmi/static/js/453.f42ee627.chunk.js",
-    "index.html": "/rayhananlovan/Kalkulatorbmi/index.html",
-    "main.c12da547.css.map": "/rayhananlovan/Kalkulatorbmi/static/css/main.c12da547.css.map",
-    "main.db8d8b59.js.map": "/rayhananlovan/Kalkulatorbmi/static/js/main.db8d8b59.js.map",
-    "453.f42ee627.chunk.js.map": "/rayhananlovan/Kalkulatorbmi/static/js/453.f42ee627.chunk.js.map"
+    "main.css": "/Kalkulatorbmi/static/css/main.c12da547.css",
+    "main.js": "/Kalkulatorbmi/static/js/main.74e442f3.js",
+    "static/js/453.f42ee627.chunk.js": "/Kalkulatorbmi/static/js/453.f42ee627.chunk.js",
+    "index.html": "/Kalkulatorbmi/index.html",
+    "main.c12da547.css.map": "/Kalkulatorbmi/static/css/main.c12da547.css.map",
+    "main.74e442f3.js.map": "/Kalkulatorbmi/static/js/main.74e442f3.js.map",
+    "453.f42ee627.chunk.js.map": "/Kalkulatorbmi/static/js/453.f42ee627.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c12da547.css",
-    "static/js/main.db8d8b59.js"
+    "static/js/main.74e442f3.js"
   ]
 }
